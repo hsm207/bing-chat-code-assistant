@@ -6,3 +6,4 @@ httpx
 weaviate-client
 black
 pytest-asyncio
+requests
