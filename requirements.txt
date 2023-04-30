@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+fastapi
+uvicorn[standard]
+httpx
+weaviate-client
+black
